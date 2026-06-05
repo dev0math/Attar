@@ -44,7 +44,7 @@ sudo dnf install python3 python3-pyqt6
 
 ```bash
 git clone https://github.com/dev0math/Attar
-cd attar
+cd Attar
 bash install.sh
 ```
 
