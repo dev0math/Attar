@@ -43,7 +43,7 @@ sudo dnf install python3 python3-pyqt6
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/attar.git
+git clone https://github.com/dev0math/Attar
 cd attar
 bash install.sh
 ```
@@ -94,6 +94,12 @@ attar --uninstall
 
 ---
 
+## Contributing
+
+If you encounter a bug or a security vulnerability, please open an issue. Every report helps improve the project, and sharing knowledge benefits us all. Your time and attention are appreciated.
+
+---
+
 ## License
 
-MIT
+MIT — Built with care by [DEV](https://github.com/dev0math)
